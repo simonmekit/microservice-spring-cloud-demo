@@ -1,25 +1,3 @@
-# ===============================================
-
-For info about the demo:
-
-see below
-
-please goto this site  download the code and import to eclipse or intellij
-
- https://github.com/paulc4/microservices-demoLinks to an external site..
-
-Follow the directions to get the 3 processes up and running outside of the IDE.
-
-as shown in the on github:  ( OR fire up from your IDE )
-
-java -jar microservices-demo-2.1.0.RELEASE.jar registration 1111    <br>
-java -jar microservices-demo-2.1.0.RELEASE.jar accounts 2222    <br>
-java -jar microservices-demo-2.1.0.RELEASE.jar web 3333   <br>
-
-# Now,   your task given to you by management is to Expand the account number from 9 digits to 10 digits
-
-# NOTE:  u can pull this code for the version that has 10 digits
-# ========================================
 
 # microservices-demo
 
@@ -91,4 +69,23 @@ For a list of valid accounts refer to the [data.sql](https://github.com/paulc4/m
 ## Using Docker
 
 This application can also be run using 3 docker containers. See [here](use-docker.md).
+
+#====================================
+# INFOMATION about this version follows here=============================
+For info about the demo:
+see above
+
+Follow the directions to get the 3 processes up and running outside of the IDE.
+
+as shown in the on github:  this jar will be in the target dir of the project (intellij)
+
+java -jar microservices-demo-2.1.0.RELEASE.jar registration 1111    <br>
+java -jar microservices-demo-2.1.0.RELEASE.jar accounts 2222    <br>
+java -jar microservices-demo-2.1.0.RELEASE.jar web 3333   <br>
+
+# What you need to do:
+# Now,   your task given to you by management is to Expand the account number from 9 digits to 10 digits
+
+# NOTE:  u can fork this code for the version that has 10 digits
+# ========================================
 
