@@ -15,9 +15,9 @@ Follow the directions to get the 3 processes up and running outside of the IDE.
 
 as shown in the on github:  ( OR fire up from your IDE )
 
-java -jar microservices-demo-2.1.0.RELEASE.jar registration 1111    
-java -jar microservices-demo-2.1.0.RELEASE.jar accounts 2222
-java -jar microservices-demo-2.1.0.RELEASE.jar web 3333
+java -jar microservices-demo-2.1.0.RELEASE.jar registration 1111    <br>
+java -jar microservices-demo-2.1.0.RELEASE.jar accounts 2222    <br>
+java -jar microservices-demo-2.1.0.RELEASE.jar web 3333   <br>
 
 Now,   your task given to you by management is to Expand the account number from 9 digits to 10 digits
 
